@@ -1,0 +1,94 @@
+{
+    "results": [
+        {
+            "question": "Computer virus is?",
+            "correct_answer": "Software",
+            "incorrect_answers": [
+                "Freeware",
+                "Hardware",
+                "Bacteria"
+            ]
+        },
+        {
+            "question": "Filter is available on?",
+            "correct_answer": "Data menu",
+            "incorrect_answers": [
+                "Tools menu",
+                "View menu",
+                "Edit menu"
+            ]
+        },
+        {
+            "question": "Font folder is located on:",
+            "correct_answer": "Control Panel folder",
+            "incorrect_answers": [
+                "Program folder",
+                "MS Word file",
+                "Desktop folder"
+            ]
+        },
+        {
+            "question": "Which application program is called data base program?",
+            "correct_answer": "Access",
+            "incorrect_answers": [
+                "Excel",
+                "Word",
+                "PowerPoint"
+            ]
+        },
+        {
+            "question": "Which one is not relationship type?",
+            "correct_answer": "Many to one",
+            "incorrect_answers": [
+                "Many to many",
+                "One to many",
+                "One to one"
+            ]
+        },
+        {
+            "question": "Which one is not database object?",
+            "correct_answer": "Datasheet",
+            "incorrect_answers": [
+                "Form",
+                "Table",
+                "Report"
+            ]
+        },
+        {
+            "question": "The technology is used in CD-ROM.",
+            "correct_answer": "Optical",
+            "incorrect_answers": [
+                "Magnetic",
+                "Mechanical",
+                "Electro-mechanical"
+            ]
+        },
+        {
+            "question": "Which code is used in keystroke?",
+            "correct_answer": "ASCII",
+            "incorrect_answers": [
+                "ANSI",
+                "Both",
+                "None"
+            ]
+        },
+        {
+            "question": "Www stands for?",
+            "correct_answer": "World Wide Web",
+            "incorrect_answers": [
+                "World Wide Work",
+                "World Wide Webpage",
+                "None"
+            ]
+        },
+        {
+            "question": "The fastest printer is?",
+            "correct_answer": "Laser printer",
+            "incorrect_answers": [
+                "Dot matrix printer",
+                "Inkjet printer",
+                "None of theme"
+            ]
+        }
+    ]
+}
